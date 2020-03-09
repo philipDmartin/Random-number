@@ -1,0 +1,11 @@
+C:\Users\phili\workspace\csharp\exercises\randomNumber\obj\Debug\netcoreapp3.1\randomNumber.csprojAssemblyReference.cache
+C:\Users\phili\workspace\csharp\exercises\randomNumber\obj\Debug\netcoreapp3.1\randomNumber.AssemblyInfoInputs.cache
+C:\Users\phili\workspace\csharp\exercises\randomNumber\obj\Debug\netcoreapp3.1\randomNumber.AssemblyInfo.cs
+C:\Users\phili\workspace\csharp\exercises\randomNumber\bin\Debug\netcoreapp3.1\randomNumber.exe
+C:\Users\phili\workspace\csharp\exercises\randomNumber\bin\Debug\netcoreapp3.1\randomNumber.deps.json
+C:\Users\phili\workspace\csharp\exercises\randomNumber\bin\Debug\netcoreapp3.1\randomNumber.runtimeconfig.json
+C:\Users\phili\workspace\csharp\exercises\randomNumber\bin\Debug\netcoreapp3.1\randomNumber.runtimeconfig.dev.json
+C:\Users\phili\workspace\csharp\exercises\randomNumber\bin\Debug\netcoreapp3.1\randomNumber.dll
+C:\Users\phili\workspace\csharp\exercises\randomNumber\bin\Debug\netcoreapp3.1\randomNumber.pdb
+C:\Users\phili\workspace\csharp\exercises\randomNumber\obj\Debug\netcoreapp3.1\randomNumber.dll
+C:\Users\phili\workspace\csharp\exercises\randomNumber\obj\Debug\netcoreapp3.1\randomNumber.pdb
